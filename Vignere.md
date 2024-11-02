@@ -1,18 +1,21 @@
 # First question: [Vignere](https://play.picoctf.org/practice?page=1&search=vigenere)
 ---
 ## txt file contents:
+
 rgnoDVD{O0NU_WQ3_G1G3O3T3_A1AH3S_cc82272b}
 <br>
 ---
 
 ## statement: 
+
 Can you decrypt this message? <br> Decrypt this message using this key "CYLAB".
 <br>
 ---
 
 ## solution:
+
 So this obvioulsy just a vignere cipher, so I just went to: [My own coded website](https://cipher-website-code.vercel.app/) and put the encrypted message and key there.<br>
-Which gives me: ``PICOCTF{O0LW_WP3_V1F3Q3T3_C1AG3U_CB82272Z}''<br>
+Which gives me: ``PICOCTF{O0LW_WP3_V1F3Q3T3_C1AG3U_CB82272Z}`` <br>
 Which is obviouly...... NOT the answer??<br>
 Let me try using picoCTF.<br>
 STILL NOT THE ANSWER??<br>
